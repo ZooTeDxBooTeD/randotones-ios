@@ -66,4 +66,4 @@ This project intentionally designs **within** those limits instead of working ar
 
 ## Author
 
-Built by **[alistorfalls]**
+Built by **[alistor]** (@ZooTeDxBooTeD)
