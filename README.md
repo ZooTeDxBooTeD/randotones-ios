@@ -1,7 +1,9 @@
-# RandoTone
+# Echo
 **Offline-first ringtone personalization for iOS**
 
-RandoTone is a concept iOS app that explores how personalization can extend into system-adjacent experiences like ringtones, while respecting iOS platform constraints and user privacy.
+> Previously referred to as “RandoTone” during early exploration.
+
+Echo is a concept iOS app that explores how personalization can extend into system-adjacent experiences like ringtones, while respecting iOS platform constraints and user privacy.
 
 This project is designed as a **portfolio and learning project**, not a production app.
 
@@ -11,7 +13,7 @@ This project is designed as a **portfolio and learning project**, not a producti
 
 Most people listen to thousands of songs but keep the same ringtone for years.
 
-RandoTone explores:
+echo explores:
 - How music taste could influence ringtones
 - How to design within iOS limitations
 - How to prioritize clarity, privacy, and user intent
